@@ -1,0 +1,7 @@
+The GoalsScoredPerTeam.csv file contains data of the Premier League.
+At this moment, the data that contains the file is:
+	- Date of the season (2018/2019, 2019/2020, etc.)
+	- Best ofensive of the season
+	- Scored goals for the Premier League winning team
+	- Best defensive of the season
+	- Recived goals for the Premier League winning team
